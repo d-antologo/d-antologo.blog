@@ -1,1 +1,0 @@
-# blog d'antólogo
