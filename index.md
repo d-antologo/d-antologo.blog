@@ -7,7 +7,7 @@ title: d'antólogo
 
 <p style="font-size: 1.2rem; text-align: center;">—</p>
 
-<p>há um lampejo de respiro de algo que foge ao mundo real que atravessa a leitura de poesias. e não só poemas, como também prosas, crônicas, contos, escritos no geral que fazem esse mundo de carne e terra parecerem nada mais que lembranças de um tempo longínquo em uma terra de fantasia distinta. essa habilidade que alguns escritores têm — bem, eu não sei como se chama —, mas acho muito curioso como se perder no mundo deles às vezes ajuda a nos encontrarmos no nosso — e só às vezes, mesmo.</p>
+<p>há um lampejo de respiro de algo que foge ao mundo real que atravessa a leitura de poesias. e não só poemas, como também prosas, crônicas, contos, escritos no geral que fazem esse mundo de carne e terra parecerem nada mais que lembranças de um tempo longínquo em uma terra de fantasia distinta. essa habilidade que alguns escritores têm, bem, eu não sei como se chama, mas acho muito curioso como se perder no mundo deles às vezes ajuda a nos encontrarmos no nosso — e só às vezes, mesmo.</p>
 
 <p>acredito que quando uma letra se junta com outra letra — e um som se junta com outro som — e esse conjunto se junta a outros conjuntos parecidos — e esses sons se juntam com outros sons também — e esses maxi-conjuntos se juntam a outros maxi-conjuntos — juntando letra e som — e assim sucessivamente até formar um omni-conjunto — que é proposta e sentido —, algo mágico acontece. acredito que se embrenhar nesses emaranhados de palavras, versos, estrofes, ideias e coisas muito malucas de universos particulares é uma viagem mais alucinogênica que usar LSD chapado de maconha enquanto transa numa espaçonave rumo a Valhalla.</p>
 
@@ -21,7 +21,7 @@ title: d'antólogo
 
 <p>esses poetas, artistas, filósofos e cientistas cujas obras disponibilizo bem arrumadinho nesse site são alguns dos meus favoritos, mas infelizmente nunca cheguei a conhecê-los. conheço, no entanto, todas suas histórias: Íris Miranda, Epifânia Estrada, Hebe Frênica, Candy Dies Irae, Santiague Ventura, Anne von Dotta e Geni Bat Papo. e sou deles apenas um fã. um admirador. um organizador. um mensageiro.</p>
 
-<p style="text-align: center; margin-top: 2rem;">um antólogo.</p>
+<p style="text-align: center; margin-top: 2rem;">um antólogo. e esse é meu blog.</p>
 
 <p style="text-align: center; font-size: 1.1rem;"><strong>antônio atônito</strong></p>
 
