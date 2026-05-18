@@ -6,7 +6,7 @@ permalink: /antologia/anne-von-dotta/
 
 # Anne von Dotta
 
-drag queen inteligente e comunicativa, engraçada, àcida e crítica. irmã de geni bat papo, com quem divide um podcast.
+drag queen inteligente e comunicativa, engraçada, àcida e crítica. irmã de santiague e geni (com quem divide um podcast).
 
 <ul>
   {% for post in site.posts %}
