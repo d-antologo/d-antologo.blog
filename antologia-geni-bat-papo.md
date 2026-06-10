@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Geni Bat Papo"
-permalink: /antologia/geni-bat-papo/
 ---
 
 # Geni Bat Papo
