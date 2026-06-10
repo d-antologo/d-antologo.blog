@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Candy Dies Irae"
-permalink: /antologia/candy-dies-irae/
 ---
 
 # Candy Dies Irae
