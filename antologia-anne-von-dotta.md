@@ -1,6 +1,8 @@
 ---
 layout: page
 title: "Anne von Dotta"
+permalink: /antologia/anne-von-dotta/
+nav_exclude: true
 ---
 
 # Anne von Dotta
