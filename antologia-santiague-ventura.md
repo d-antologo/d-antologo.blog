@@ -1,6 +1,8 @@
 ---
 layout: page
 title: "Santiague Ventura"
+permalink: /antologia/santiague-ventura/
+nav_exclude: true
 ---
 
 # Santiague Ventura
