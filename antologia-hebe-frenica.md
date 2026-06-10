@@ -1,6 +1,8 @@
 ---
 layout: page
 title: "Hebe Frênica"
+permalink: /antologia/hebe-frenica/
+nav_exclude: true
 ---
 
 # Hebe Frênica
