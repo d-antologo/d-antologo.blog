@@ -1,6 +1,8 @@
 ---
 layout: page
 title: "Íris Miranda"
+permalink: /antologia/iris-miranda/
+nav_exclude: true
 ---
 
 # Íris Miranda
