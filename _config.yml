@@ -1,3 +1,6 @@
 title: d'antólogo
 description: não há vida sem arte. não há arte sem vida.
 theme: minima
+header_pages:
+  - index.md
+  
