@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Epifânia Estrada"
-permalink: /antologia/epifania-estrada/
 ---
 
 # Epifânia Estrada
