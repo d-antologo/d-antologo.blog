@@ -30,13 +30,13 @@ title: d'antólogo
 <h2 style="text-align: center;">Antologias</h2>
 
 <p style="text-align: center;">
-  <a href="/antologia/iris-miranda">Íris Miranda</a> • 
-  <a href="/antologia/epifania-estrada">Epifânia Estrada</a> • 
-  <a href="/antologia/hebe-frenica">Hebe Frênica</a> • 
-  <a href="/antologia/candy-dies-irae">Candy Dies Irae</a> • 
-  <a href="/antologia/santiague-ventura">Santiague Ventura</a> • 
-  <a href="/antologia/anne-von-dotta">Anne von Dotta</a> • 
-  <a href="/antologia/geni-bat-papo">Geni Bat Papo</a>
+  <a href="/d-antologo.blog/antologia/iris-miranda">Íris Miranda</a> • 
+  <a href="/d-antologo.blog/antologia/epifania-estrada">Epifânia Estrada</a> • 
+  <a href="/d-antologo.blog/antologia/hebe-frenica">Hebe Frênica</a> • 
+  <a href="/d-antologo.blog/antologia/candy-dies-irae">Candy Dies Irae</a> • 
+  <a href="/d-antologo.blog/antologia/santiague-ventura">Santiague Ventura</a> • 
+  <a href="/d-antologo.blog/antologia/anne-von-dotta">Anne von Dotta</a> • 
+  <a href="/d-antologo.blog/antologia/geni-bat-papo">Geni Bat Papo</a>
 </p>
 
 <hr>
